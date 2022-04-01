@@ -1,0 +1,16 @@
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\bin\Debug\TakipProjesi.exe.config
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\bin\Debug\TakipProjesi.exe
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\bin\Debug\TakipProjesi.pdb
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.csprojAssemblyReference.cache
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.Form1.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.frmMüşteriKayıt.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.Properties.Resources.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.csproj.GenerateResource.cache
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.exe
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.pdb
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.frmMüşteriListeleme.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.frmKategori.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.frmMarka.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.frmSiparişKayıt.resources
+C:\Users\m\source\repos\TakipProjesi\TakipProjesi\obj\Debug\TakipProjesi.frmSiparişKayıtListeleme.resources
